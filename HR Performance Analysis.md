@@ -20,6 +20,8 @@ Salary vs Experience Level
 Salary by region
 Gender Ratio
 Employee demographics distribution
+Employee Count by Branch
+Age Distribution
 
 🛠 Tools Used
 Power BI Desktop
@@ -44,6 +46,4 @@ Linkedin: https://www.linkedin.com/in/nour-ayman-220b11155/
 Email: Nourayman427@gmail.com
 
 
-Employee Count by Branch
 
-Age Distribution
