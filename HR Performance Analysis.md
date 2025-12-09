@@ -19,7 +19,8 @@ Monitor salary patterns and experience levels.
 
 💰 Average salary
 
-📊 Experience Level Segmentation
+👥 Experience Level Segmentation
+
 
 
 📊 Dashboard Visuals:
