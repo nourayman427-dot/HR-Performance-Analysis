@@ -6,33 +6,51 @@ It helps HR teams and decision-makers monitor performance trends, understand wor
 🎯 Objectives:
 
 Analyze workforce distribution by department, branch, gender, and job role.
+
 Track hiring trends.
+
 Monitor salary patterns and experience levels.
 
 📌 Key KPIs:
 
 👥 Total Employees
+
 🧠 Average Experience level
+
 💰 Average salary
+
 📊 Experience Level Segmentation
+
 
 📊 Dashboard Visuals:
 
 Employee Distribution by age level & Position
+
 Yearly Employee Hiring trend
+
 Salary vs Experience Level
+
 Salary by region
+
 Gender Ratio
+
 Employee demographics distribution
+
 Employee Count by Branch
+
 Age Distribution
+
 
 🛠 Tools Used:
 
 Power BI Desktop
+
 Power Query
+
 DAX Measures
+
 Excel / CSV Data Sources
+
 
 🚀 Features:
 
@@ -41,8 +59,11 @@ Interactive slicers (Department, Branch, Experience level, position, year)
 📁 Files Included:
 
 HR_Performance_Dashboard.pbix – Full report
+
 dataset.csv – Source data
+
 screenshots/ – Dashboard images
+
 
 
 📬 Contact:
